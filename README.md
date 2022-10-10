@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sambonuruddeen
+- 👋 Hi, I’m Nuruddeen Sambo (@sambonuruddeen)
 - 👀 I’m interested in Machine Learning, Software Development and Open Source
 - 🌱 I’m currently learning MLOps & Data Engineering
 - 💞️ I’m looking to collaborate on Machine Learning 
